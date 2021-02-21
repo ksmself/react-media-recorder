@@ -1,0 +1,18 @@
+.record-state {
+  text-align: center;
+}
+
+.btn-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.btn-box > button {
+  margin-right: 10px;
+}
+
+.video-box {
+  display: flex;
+  justify-content: center;
+}
