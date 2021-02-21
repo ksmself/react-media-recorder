@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-media-recorder/static/css/main.17bd85a6.chunk.css",
+    "main.js": "/react-media-recorder/static/js/main.41a573f4.chunk.js",
+    "main.js.map": "/react-media-recorder/static/js/main.41a573f4.chunk.js.map",
+    "runtime-main.js": "/react-media-recorder/static/js/runtime-main.bebb6d7c.js",
+    "runtime-main.js.map": "/react-media-recorder/static/js/runtime-main.bebb6d7c.js.map",
+    "static/js/2.ec059c25.chunk.js": "/react-media-recorder/static/js/2.ec059c25.chunk.js",
+    "static/js/2.ec059c25.chunk.js.map": "/react-media-recorder/static/js/2.ec059c25.chunk.js.map",
+    "static/js/3.299cefd4.chunk.js": "/react-media-recorder/static/js/3.299cefd4.chunk.js",
+    "static/js/3.299cefd4.chunk.js.map": "/react-media-recorder/static/js/3.299cefd4.chunk.js.map",
+    "index.html": "/react-media-recorder/index.html",
+    "static/css/main.17bd85a6.chunk.css.map": "/react-media-recorder/static/css/main.17bd85a6.chunk.css.map",
+    "static/js/2.ec059c25.chunk.js.LICENSE.txt": "/react-media-recorder/static/js/2.ec059c25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bebb6d7c.js",
+    "static/js/2.ec059c25.chunk.js",
+    "static/css/main.17bd85a6.chunk.css",
+    "static/js/main.41a573f4.chunk.js"
+  ]
+}
